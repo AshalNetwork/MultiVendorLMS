@@ -114,8 +114,7 @@
               "RelativeToolTip": "Application\\PasswordServices\\PasswordHasher.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:16:16.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:16:16.634Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "Application\\FileServices\\IFileValidatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:16:11.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:16:11.008Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "Application\\FileServices\\FileConverterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:15:54.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:15:54.162Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "UI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-18T21:51:15.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T21:51:15.014Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "UI\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:02:02.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:02:02.859Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "UI\\Controllers\\GradesController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:16:13.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:16:13.103Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "UI\\Controllers\\LessonsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAvwNEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T21:19:11.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T21:19:11.297Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "UI\\Controllers\\UnitsController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAApwAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:51:29.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:51:29.406Z"
             },
             {
               "$type": "Document",
@@ -231,8 +223,7 @@
               "RelativeToolTip": "Application\\FileServices\\IFileConverterService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:16:08.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:16:08.593Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "Application\\FileServices\\FileValidatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:16:03.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:16:03.152Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAACAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:15:42.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:15:42.913Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "Core\\Entities\\Teacher.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:15:20.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:15:20.48Z"
             },
             {
               "$type": "Document",
@@ -283,8 +271,7 @@
               "RelativeToolTip": "Core\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:14:55.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:14:55.911Z"
             },
             {
               "$type": "Document",
@@ -296,8 +283,7 @@
               "RelativeToolTip": "Core\\Entities\\Stage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:14:50.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:14:50.309Z"
             },
             {
               "$type": "Document",
@@ -309,8 +295,7 @@
               "RelativeToolTip": "Core\\Entities\\LessonPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:14:45.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:14:45.036Z"
             },
             {
               "$type": "Document",
@@ -322,8 +307,7 @@
               "RelativeToolTip": "Core\\Entities\\UnitPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T21:13:29.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T21:13:29.801Z"
             },
             {
               "$type": "Document",
@@ -335,8 +319,7 @@
               "RelativeToolTip": "UI\\Controllers\\StagesController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAArwDwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:20:33.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T20:20:33.536Z"
             },
             {
               "$type": "Document",
@@ -348,8 +331,7 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:55:16.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:55:16.826Z"
             },
             {
               "$type": "Document",
@@ -361,8 +343,7 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAwwA4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:33:39.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:33:39.076Z"
             },
             {
               "$type": "Document",
@@ -374,8 +355,7 @@
               "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:32:19.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:32:19.429Z"
             },
             {
               "$type": "Document",
@@ -387,8 +367,7 @@
               "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:29:22.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T19:29:22.19Z"
             },
             {
               "$type": "Document",
@@ -400,8 +379,7 @@
               "RelativeToolTip": "UI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T05:06:47.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T05:06:47.497Z"
             }
           ]
         }
