@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\application\\fileservices\\fileconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|solutionrelative:application\\fileservices\\fileconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\application\\passwordservices\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|solutionrelative:application\\passwordservices\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\application\\fileservices\\ifilevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|solutionrelative:application\\fileservices\\ifilevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\application\\fileservices\\ifileconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|solutionrelative:application\\fileservices\\ifileconverterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\application\\fileservices\\filevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A91EBA3-1B91-44EC-985C-AAC7C61BD3C7}|Application\\Services.csproj|solutionrelative:application\\fileservices\\filevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\entities\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\entities\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\entities\\lessonpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\entities\\lessonpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\entities\\unitpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\entities\\unitpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B45F65-8E12-4DAC-8BA8-DE76BF8E0AA0}|Core\\Core.csproj|solutionrelative:core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\controllers\\stagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\controllers\\stagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502ED03C-BE91-4A6C-A4D2-A6E3671F2D03}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|c:\\users\\dell\\source\\repos\\oneteacherlms\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2AB445-3198-45D4-B4A1-135F6FDD7FE7}|UI\\API.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\PasswordServices\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\PasswordServices\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\PasswordServices\\PasswordHasher.cs",
+              "RelativeToolTip": "Application\\PasswordServices\\PasswordHasher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:16:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\IFileValidatorService.cs",
+              "RelativeDocumentMoniker": "Application\\FileServices\\IFileValidatorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\IFileValidatorService.cs",
+              "RelativeToolTip": "Application\\FileServices\\IFileValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:16:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\FileConverterService.cs",
+              "RelativeDocumentMoniker": "Application\\FileServices\\FileConverterService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\FileConverterService.cs",
+              "RelativeToolTip": "Application\\FileServices\\FileConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:15:54.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T21:51:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:02:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:16:13.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\LessonsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "UI\\Controllers\\LessonsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwNEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:19:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "UI\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:51:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\UnitsController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\UnitsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\UnitsController.cs",
+              "RelativeToolTip": "UI\\Controllers\\UnitsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:51:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileConverterService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\IFileConverterService.cs",
+              "RelativeDocumentMoniker": "Application\\FileServices\\IFileConverterService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\IFileConverterService.cs",
+              "RelativeToolTip": "Application\\FileServices\\IFileConverterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:16:08.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileValidatorService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\FileValidatorService.cs",
+              "RelativeDocumentMoniker": "Application\\FileServices\\FileValidatorService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Application\\FileServices\\FileValidatorService.cs",
+              "RelativeToolTip": "Application\\FileServices\\FileValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:16:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:15:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Core\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:15:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:14:55.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Stage.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Stage.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\Stage.cs",
+              "RelativeToolTip": "Core\\Entities\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:14:50.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LessonPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\LessonPayment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\LessonPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\LessonPayment.cs",
+              "RelativeToolTip": "Core\\Entities\\LessonPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:14:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitPayment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\UnitPayment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\UnitPayment.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Entities\\UnitPayment.cs",
+              "RelativeToolTip": "Core\\Entities\\UnitPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:13:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StagesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\StagesController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\StagesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Controllers\\StagesController.cs",
+              "RelativeToolTip": "UI\\Controllers\\StagesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:20:33.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:55:16.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:33:39.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:32:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:29:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\OneTeacherLMS\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:06:47.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
